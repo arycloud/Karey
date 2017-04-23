@@ -1,0 +1,24 @@
+Content-Type: multipart/alternative;
+ boundary="===============5283497791207361575=="
+MIME-Version: 1.0
+Subject: New Invitation!
+From: kare@example.com
+To: testuser
+Date: Wed, 19 Apr 2017 05:54:21 -0000
+Message-ID: <20170419055421.3588.27377@Abduls-MBP>
+
+--===============5283497791207361575==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+b" Hi New User test!\n\n You've been invited to join Treehouse by Abdul Rehman Yousaf.\n\nThanks!\n\nKare Inc."
+--===============5283497791207361575==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+b" <p>Hi New User test! </p>\n\n <p>You've been invited to join Treehouse by Abdul Rehman Yousaf.</p>\n\n<p>Thanks!</p>\n\n<p>Kare Inc.</p>"
+--===============5283497791207361575==--
+
+-------------------------------------------------------------------------------
